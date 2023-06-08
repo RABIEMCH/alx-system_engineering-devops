@@ -1,2 +1,2 @@
 #!/bin/bash
-mdkir my_dir && chmod 751 my_dir
+mdkir -m 751 my_dir
