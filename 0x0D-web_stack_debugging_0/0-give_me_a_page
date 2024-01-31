@@ -1,3 +1,4 @@
-tart Apache so as to return a
+#!/usr/bin/env bash
+start Apache so as to return a
 # page conatining Hello Holberton
 service apache2 start
